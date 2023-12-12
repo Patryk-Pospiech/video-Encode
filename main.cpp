@@ -1,3 +1,4 @@
+//made and published by Patryk.P 
 #include "main.h"
 #include <iostream>
 #include <vector>
